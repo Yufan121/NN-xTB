@@ -18,20 +18,6 @@ The source code for NN-xTB is not yet publicly available. We are working towards
 
 For questions or collaboration inquiries, please contact: giuseppe.barca@monash.edu
 
-## Citation
-
-If you reference this work, please cite:
-
-```bibtex
-@article{xia2026nnxtb,
-  title={Neural-network extended tight binding approach for DFT-level accuracy of main-group chemistry},
-  author={Xia, Yufan and Thie, Albert and Soon, Joshua and Barca, Giuseppe},
-  journal={Nature Communications},
-  year={2026},
-  doi={to be added}
-}
-```
-
 ## License
 
 To be determined upon release.
